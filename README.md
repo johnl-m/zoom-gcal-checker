@@ -1,8 +1,10 @@
-# Zoom Link Checker
+# Zoom Google Calendar Checker
 
 ## Overview
 
-Zoom Link Checker is a Chrome extension that ensures a Zoom link is added to events in Google Calendar. If a Zoom link is not detected when saving an event, the extension will alert the user.
+A Chrome extension that ensures a Zoom link is added to events in Google Calendar. If a Zoom link is not detected when saving an event, the extension will alert the user.
+
+Works with Zoom for Google Workspace.
 
 The code is not optimal and could definitely be improved.
 
